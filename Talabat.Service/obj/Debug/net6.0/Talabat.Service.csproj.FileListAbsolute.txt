@@ -1,0 +1,15 @@
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CopyComplete

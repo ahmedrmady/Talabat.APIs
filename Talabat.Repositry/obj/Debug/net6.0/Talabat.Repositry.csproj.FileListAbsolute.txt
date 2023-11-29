@@ -1,0 +1,15 @@
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\bin\Debug\net6.0\Talabat.Repositry.deps.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\bin\Debug\net6.0\Talabat.Repositry.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\bin\Debug\net6.0\Talabat.Repositry.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\obj\Debug\net6.0\Talabat.Repositry.csproj.AssemblyReference.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\obj\Debug\net6.0\Talabat.Repositry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\obj\Debug\net6.0\Talabat.Repositry.AssemblyInfoInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\obj\Debug\net6.0\Talabat.Repositry.AssemblyInfo.cs
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\obj\Debug\net6.0\Talabat.Repositry.csproj.CoreCompileInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\obj\Debug\net6.0\Talabat.Repositry.csproj.CopyComplete
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\obj\Debug\net6.0\Talabat.Repositry.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\obj\Debug\net6.0\refint\Talabat.Repositry.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\obj\Debug\net6.0\Talabat.Repositry.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Repositry\obj\Debug\net6.0\ref\Talabat.Repositry.dll

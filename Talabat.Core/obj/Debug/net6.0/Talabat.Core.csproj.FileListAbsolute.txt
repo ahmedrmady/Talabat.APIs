@@ -1,0 +1,12 @@
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+C:\Users\Rmady\Desktop\DotNet\Route ASP C40-2023\RouteAssignments\Talabat.Route.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache

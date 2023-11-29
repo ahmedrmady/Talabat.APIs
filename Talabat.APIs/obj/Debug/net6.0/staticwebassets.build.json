@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "LbIRY8JPFW3TxKNUacdquu+bHW0Zrp3NQen4/RA8UQY=",
+  "Source": "Talabat.APIs",
+  "BasePath": "_content/Talabat.APIs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Talabat.APIs\\wwwroot",
+      "Source": "Talabat.APIs",
+      "ContentRoot": "C:\\Users\\Rmady\\Desktop\\DotNet\\Route ASP C40-2023\\RouteAssignments\\Talabat.Route.Solution\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Rmady\\Desktop\\DotNet\\Route ASP C40-2023\\RouteAssignments\\Talabat.Route.Solution\\Talabat.APIs\\wwwroot\\images\\products\\sb-ang1.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rmady\\Desktop\\DotNet\\Route ASP C40-2023\\RouteAssignments\\Talabat.Route.Solution\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "images/products/sb-ang1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+    }
+  ]
+}
